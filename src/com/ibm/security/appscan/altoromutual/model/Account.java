@@ -30,6 +30,7 @@ import com.ibm.security.appscan.altoromutual.util.DBUtil;
  * @author Alexei
  */
 public class Account {
+	
 	private long accountId = -1;
 	private String accountName = null;
 	private double balance = -1;
